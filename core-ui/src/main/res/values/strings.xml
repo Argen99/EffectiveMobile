@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nav_main">Главная</string>
+    <string name="nav_favorites">Избранное</string>
+    <string name="nav_profile">Аккаунт</string>
+    <string name="text_more">Подробнее</string>
+    <string name="text_free">Бесплатно</string>
+    <string name="empty_list">Список пуст</string>
+</resources>

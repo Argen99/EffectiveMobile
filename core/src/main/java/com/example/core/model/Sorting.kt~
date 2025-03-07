@@ -1,0 +1,8 @@
+package com.example.core.model
+
+enum class Sorting(val queryParam: String, val displayName: String) {
+    POPULARITY("-popularity", "По популярности"),
+    RATING("-rating", "По рейтингу"),
+    CREATION_DATE("-creation_date", "По дате добавления");
+}
+
